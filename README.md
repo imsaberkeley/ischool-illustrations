@@ -1,9 +1,9 @@
 # I School Illustrations
 
+A collection of vectors and a 3d model related to Berkeley I School. 
+
 ![CC0 License Button](https://i.creativecommons.org/p/zero/1.0/88x31.png)
 To the extent possible under law, [Soravis Prakkamakul](https://soravis.com) has waived all copyright and related or neighboring rights to I School Illustrations.
-
-A collection of vectors and a 3d model related to Berkeley I School. 
 
 ## South Hall Line Illustration
 ![Line Illustration of South Hall](southhall/southhall.png)
