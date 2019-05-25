@@ -13,4 +13,5 @@ A collection of vectors and a 3d model related to Berkeley I School.
 
 ## 3D Printed South Hall
 ![3D Printed Model of South Hall](southhall-3d-print/southhall-3d-print-preview.jpg)
+The model could be printed with Jacob Hall's Type A 3D Printer. Consult Jacob Institute design specialists for more details.
 
